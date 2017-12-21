@@ -1,0 +1,11 @@
+{
+    "bizSysRoute": null,
+    "bizSysRouteStr": null,
+    "resCode": "0",
+    "resInfo": "用户未登入",
+    "payType": null,
+    "dealNo": null,
+    "userId": null,
+    "map": null,
+    "success": false
+}
