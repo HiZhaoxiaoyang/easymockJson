@@ -1,28 +1,20 @@
 {
-  "name": "easy_mock_json",
+  "name": "mock-server",
   "version": "0.1.0",
-  "description": "easy mock json",
-  "main": "index.js",
+  "description": "前端mock测试数据生成表单",
+  "main": "mockServer.js",
   "scripts": {
-    "test": "mocha --colors test/*.spec.js",
-    "start": "babel-node gulpfile.js",
-    "api": "browser-sync start --server --files \"**\\*.json\"",
-    "mock": "node mocker.js"
+    "start": "babel-node mockServer.js"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:9801/dir1/dir2/demo.json"
+  },
   "keywords": [
-    "webpack3+",
     "yarn",
-    "gulp",
     "es6/7"
   ],
-  "create": "zhaoxiaoyang",
-  "upgrade": "zhaoxiaoyang",
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.25.0",
@@ -30,29 +22,10 @@
     "babel-polyfill": "^6.23.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1",
-    "browser-sync": "^2.11.2",
-    "file-loader": "^0.8.5",
-    "glob": "^7.0.3",
-    "gulp": "^3.9.1",
-    "gulp-util": "^3.0.7",
-    "html-webpack-plugin": "^2.15.0",
-    "husky": "^0.11.4",
-    "jade": "^1.11.0",
-    "jade-loader": "^0.8.0",
-    "lodash": "^4.17.4",
-    "mocha": "^2.4.5",
-    "raw-loader": "^0.5.1",
-    "style-loader": "^0.13.1",
-    "url-loader": "^0.5.7"
+    "babel-preset-stage-2": "^6.24.1"
   },
   "dependencies": {
-    "auxiliary-additions": "0.0.1",
-    "base-extend-backbone": "^0.1.4",
     "express": "^4.16.2",
-    "gulp-connect": "^5.0.0",
-    "gulp-connect-proxy": "^0.3.1",
-    "happypack": "^4.0.0-beta.2",
     "mkdirp": "^0.5.1"
   }
 }

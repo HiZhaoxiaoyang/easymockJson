@@ -1,0 +1,76 @@
+{
+    "201708250": {
+        "id": "201708250",
+        "data": [
+            {
+                "_self_acm": "201708250.1003.1.2101633",
+                "ka_workflow_resourceCode": "201708250",
+                "_pos_": 1,
+                "entityType": "THJH",
+                "acm": "201708250.1003.1.2101633",
+                "_s_": "d",
+                "nickNameStrategy": "DynamicCtr",
+                "pageParam": "scm=1003.1.201708250.THJH_314183-C1S1_2101633",
+                "ctrClickParam": "scm=1003.1.201708250.THJH_314183-C1S1_2101633;acm=201708250.1003.1.2101633;aldid=3vCmwThT;pvuuid=3vCmwThT",
+                "imgUrl": "//img.alicdn.com/tps/i4/TB1ruS6jdbJ8KJjy1zjSuuqapXa.jpg",
+                "title_cn": "品牌活动",
+                "action": "https://mideakongtiao.tmall.com/index.htm?pos=1&acm=201708250.1003.1.2101633&scm=1003.1.201708250.THJH_314183-C1S1_2101633",
+                "title_en": "BRAND ACTIVITY",
+                "id": "314183",
+                "scm": "1003.1.201708250.THJH_314183-C1S1_2101633",
+                "_self_scm": "1003.1.201708250.THJH_314183-C1S1_2101633",
+                "exposureParam": "https://gm.mmstat.com/tmallfp.4202.7?t=1457679710533&pos=1&gokey=scm%3D1003.1.201708250.THJH_314183-C1S1_2101633%26acm%3D201708250.1003.1.2101633%26aldid%3D3vCmwThT%26pvuuid%3D3vCmwThT&acm=201708250.1003.1.2101633&scm=1003.1.201708250.THJH_314183-C1S1_2101633"
+            }
+        ],
+        "exposureParam": "https://gm.mmstat.com/tmallfp.4202.7?t=1457679710533&pos=1&gokey=scm%3D1003.1.201708250.THJH_314183-C1S1_2101633%26acm%3D201708250.1003.1.2101633%26aldid%3D3vCmwThT%26pvuuid%3D3vCmwThT&acm=201708250.1003.1.2101633&scm=1003.1.201708250.THJH_314183-C1S1_2101633",
+        "serverTime": 1513852137545,
+        "_self_acm": "201708250.1003.1.2101633",
+        "ka_workflow_resourceCode": "201708250",
+        "_pos_": 1,
+        "entityType": "THJH",
+        "acm": "201708250.1003.1.2101633",
+        "_s_": "d",
+        "nickNameStrategy": "DynamicCtr",
+        "pageParam": "scm=1003.1.201708250.THJH_314183-C1S1_2101633",
+        "ctrClickParam": "scm=1003.1.201708250.THJH_314183-C1S1_2101633;acm=201708250.1003.1.2101633;aldid=3vCmwThT;pvuuid=3vCmwThT",
+        "imgUrl": "//img.alicdn.com/tps/i4/TB1ruS6jdbJ8KJjy1zjSuuqapXa.jpg",
+        "title_cn": "品牌活动",
+        "action": "https://mideakongtiao.tmall.com/index.htm?pos=1&acm=201708250.1003.1.2101633&scm=1003.1.201708250.THJH_314183-C1S1_2101633",
+        "title_en": "BRAND ACTIVITY",
+        "scm": "1003.1.201708250.THJH_314183-C1S1_2101633",
+        "_self_scm": "1003.1.201708250.THJH_314183-C1S1_2101633",
+        "success": true
+    },
+    "201708280": {
+        "id": "201708280",
+        "data": [
+            {
+                "imgUrl": "https://img.alicdn.com/tfs/TB1kMNGfLDH8KJjy1XcXXcpdXXa-468-644.jpg",
+                "_pos_": 1,
+                "entityType": "OTHER",
+                "title_cn": "品牌闪购",
+                "action": "https://ju.taobao.com/tg/brand.htm?pos=1&acm=201708280-1.1003.2.2576189&scm=1003.2.201708280-1.OTHER_1510562679171_2576189",
+                "acm": "201708280-1.1003.2.2576189",
+                "_s_": "d",
+                "title_en": "BRAND SALE",
+                "id": "1510562679171",
+                "scm": "1003.2.201708280-1.OTHER_1510562679171_2576189"
+            },
+            {
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/3047693971/TB26Wgik2BNTKJjSszbXXaFrFXa_!!3047693971.jpg",
+                "_pos_": 2,
+                "entityType": "OTHER",
+                "title_cn": "聚名品",
+                "action": "https://ju.taobao.com/jusp/other/mingpin/tp.htm?pos=2&acm=201708280-2.1003.2.2576258&scm=1003.2.201708280-2.OTHER_1511432751929_2576258",
+                "acm": "201708280-2.1003.2.2576258",
+                "_s_": "d",
+                "title_en": "LUXURY CHANNEL",
+                "id": "1511432751929",
+                "scm": "1003.2.201708280-2.OTHER_1511432751929_2576258"
+            }
+        ],
+        "exposureParam": "//ac.mmstat.com/1.gif?com=02&logtype=4&cache=ym5MuTNN&abtest=&apply=vote&abbucket=&cod=201708280&acm=201708280.1.1003&scm=1003.1.201708280",
+        "serverTime": 1513852137546,
+        "success": true
+    }
+}
