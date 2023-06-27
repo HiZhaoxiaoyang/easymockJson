@@ -1,3 +1,4 @@
+# 一个可以快速生成serverless的json mock数据的web工具。
 ## 所使用的工具如下：
 
 ## nodejs,babel
